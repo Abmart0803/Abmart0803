@@ -17,7 +17,7 @@
 - 👨‍💻 Check my Personal Portfolio here https://abmart0803.github.io/CSS-My-Site
 - 💬 Ask me about **HTML,CSS,Bootstrap,Javascript and React**
 
-- 📫 How to reach me **hsemartins@@gmail.com**
+- 📫 How to reach me **hsemartins@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://abmart0803.github.io/CSS-My-Site/AyodeleMartins_ABIOLA_CV_2.pdf)
 
