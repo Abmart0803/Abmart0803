@@ -1,11 +1,28 @@
-### Hi there 👋
+<h1 align="center"><strong>Hi there 👋, I'm Abiola Ayodele Martins</strong></h1>
+<h3 align="center">A passionate Web Developer from Nigeria, base in Qatar.</h3>
 
-<p align="center"><strong>Welcome to Abiola Martins' README.md file</strong>
-</p>
 
 <p align="center">
 <img src="abiola martins.png" />
 </p>
+
+-  🤝 I’m currently open to work oportunity as Frontend web development and Backend web developer.
+
+- 🌱 I’m currently learning **Software Developmet**
+
+- 👯 I’m looking to collaborate on on open source projects.
+
+- 🔭 I’m working for freelance Software Developer in Soft Skills Inc. Qatar.
+
+- 👨‍💻 Check my Personal Portfolio here https://abmart0803.github.io/CSS-My-Site
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript and React**
+
+- 📫 How to reach me **hsemartins@@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://abmart0803.github.io/CSS-My-Site/AyodeleMartins_ABIOLA_CV_2.pdf)
+
+- ⚡ Fun fact **I am positive and passionate being.**
+
 
 
 <br/>
