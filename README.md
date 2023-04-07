@@ -6,7 +6,7 @@
 <img src="abiola martins.png" />
 </p>
 
--  🤝 I’m currently open to work oportunity as Frontend web development and Backend web developer.
+-  🤝 I’m currently open to work oportunity as Front-end Web Developer and Back-end Web developer.
 
 - 🌱 I’m currently learning **Software Developmet**
 
