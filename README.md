@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Hi there 👋, I'm Abiola Ayodele Martins</strong></h1>
-<h3 align="center">A passionate Web Developer from Nigeria, base in Qatar.</h3>
+<h3 align="center">A passionate Web Developer, Tech Addict from Nigeria, base in Qatar.</h3>
 
 
 <p align="center">
